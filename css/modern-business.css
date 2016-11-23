@@ -91,7 +91,14 @@ footer {
         height: 70%;
     }
 }
+@media(min-width:767px){
+  .resources-sidebar {
+    height: 2000px;
+  }
+}
 
-.resources-sidebar {
-  height: 2000px;
+@media (min-width: 992px){
+  .right {
+    float: right;
+  }
 }
