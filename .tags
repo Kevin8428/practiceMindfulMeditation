@@ -1,0 +1,301 @@
+html	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^<head>$/;"	function	line:4
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <meta charset="utf-8">$/;"	function	line:6
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:8
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <meta name="description" content="">$/;"	function	line:9
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <meta name="author" content="">$/;"	function	line:10
+title	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <title>Modern Business - Start Bootstrap Template<\/title>$/;"	function	line:12
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <link href="css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:15
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <link href="css\/modern-business.css" rel="stylesheet">$/;"	function	line:18
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <link href="font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:21
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/html5shiv\/3.7.0\/html5shiv.js"><\/script>$/;"	function	line:26
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:27
+body	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^<body>$/;"	function	line:32
+nav	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">$/;"	function	line:35
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <div class="container">$/;"	function	line:36
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="navbar-header">$/;"	function	line:38
+button	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">$/;"	function	line:39
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:40
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:41
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:42
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:43
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <a class="navbar-brand" href="index.html">Start Bootstrap<\/a>$/;"	function	line:45
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">$/;"	function	line:48
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <ul class="nav navbar-nav navbar-right">$/;"	function	line:49
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li>$/;"	function	line:50
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="index.html">Home<\/a>$/;"	function	line:51
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li class="active">$/;"	function	line:53
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="about.html">About<\/a>$/;"	function	line:54
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li>$/;"	function	line:56
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="services.html">Services<\/a>$/;"	function	line:57
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li>$/;"	function	line:59
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="contact.html">Contact<\/a>$/;"	function	line:60
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li class="dropdown">$/;"	function	line:62
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"><\/b><\/a>$/;"	function	line:63
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="dropdown-menu">$/;"	function	line:64
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:65
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="portfolio-1-col.html">1 Column Portfolio<\/a>$/;"	function	line:66
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:68
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="portfolio-2-col.html">2 Column Portfolio<\/a>$/;"	function	line:69
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:71
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="portfolio-3-col.html">3 Column Portfolio<\/a>$/;"	function	line:72
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:74
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="portfolio-4-col.html">4 Column Portfolio<\/a>$/;"	function	line:75
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:77
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="portfolio-item.html">Single Portfolio Item<\/a>$/;"	function	line:78
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li class="dropdown">$/;"	function	line:82
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"><\/b><\/a>$/;"	function	line:83
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="dropdown-menu">$/;"	function	line:84
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:85
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="blog-home-1.html">Blog Home 1<\/a>$/;"	function	line:86
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:88
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="blog-home-2.html">Blog Home 2<\/a>$/;"	function	line:89
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:91
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="blog-post.html">Blog Post<\/a>$/;"	function	line:92
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li class="dropdown">$/;"	function	line:96
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"><\/b><\/a>$/;"	function	line:97
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="dropdown-menu">$/;"	function	line:98
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:99
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="full-width.html">Full Width Page<\/a>$/;"	function	line:100
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:102
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="sidebar.html">Sidebar Page<\/a>$/;"	function	line:103
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:105
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="faq.html">FAQ<\/a>$/;"	function	line:106
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:108
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="404.html">404<\/a>$/;"	function	line:109
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li>$/;"	function	line:111
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                                <a href="pricing.html">Pricing Table<\/a>$/;"	function	line:112
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <div class="container">$/;"	function	line:124
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <div class="row">$/;"	function	line:127
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-lg-12">$/;"	function	line:128
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <h1 class="page-header">About$/;"	function	line:129
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <small>Subheading<\/small>$/;"	function	line:130
+ol	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <ol class="breadcrumb">$/;"	function	line:132
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li><a href="index.html">Home<\/a>$/;"	function	line:133
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <li class="active">About<\/li>$/;"	function	line:135
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <div class="row">$/;"	function	line:142
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-6">$/;"	function	line:143
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:144
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-6">$/;"	function	line:146
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <h2>Why was this page built?<\/h2>$/;"	function	line:147
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <p>The purpose of this site is to provide resources and introductory tips on how to begin mindfulness meditation. This site aims to highlight the benefits of mindfulness meditation and promote it as a daily practice to combat a multitude of mental health issues faced by all types of people on a daily basis. It’s affordable (or free) and is able to be practiced by anyone.<\/p>$/;"	function	line:148
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <div class="row">$/;"	function	line:153
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-lg-12">$/;"	function	line:154
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div id="myTabContent" class="tab-content">$/;"	function	line:155
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="tab-pane fade active in" id="service-one">$/;"	function	line:156
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h4>Mental health is a serious concern, and meditation can help.<\/h4>$/;"	function	line:157
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Anxiety disorders are the most common mental illness in the U.S., affecting 40 million adults ages 18 and older. While highly treatable, roughtly two-thirds of those suffering do not receive treatment. Anxiety disorders cost the U.S. more than $42 billion a year. This is roughly one-third of the country’s $148 billion mental health bill.<\/p>$/;"	function	line:158
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h4>Meditation makes people happier.<\/h4>$/;"	function	line:159
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.<\/p>$/;"	function	line:160
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <div class="row">$/;"	function	line:171
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-lg-12">$/;"	function	line:172
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <h2 class="page-header">Our Team<\/h2>$/;"	function	line:173
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-4 text-center">$/;"	function	line:175
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="thumbnail">$/;"	function	line:176
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:177
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="caption">$/;"	function	line:178
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h3>John Smith<br>$/;"	function	line:179
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <small>Job Title<\/small>$/;"	function	line:180
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.<\/p>$/;"	function	line:182
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="list-inline">$/;"	function	line:183
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"><\/i><\/a>$/;"	function	line:184
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"><\/i><\/a>$/;"	function	line:186
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"><\/i><\/a>$/;"	function	line:188
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-4 text-center">$/;"	function	line:194
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="thumbnail">$/;"	function	line:195
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:196
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="caption">$/;"	function	line:197
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h3>John Smith<br>$/;"	function	line:198
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <small>Job Title<\/small>$/;"	function	line:199
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.<\/p>$/;"	function	line:201
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="list-inline">$/;"	function	line:202
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"><\/i><\/a>$/;"	function	line:203
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"><\/i><\/a>$/;"	function	line:205
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"><\/i><\/a>$/;"	function	line:207
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-4 text-center">$/;"	function	line:213
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="thumbnail">$/;"	function	line:214
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:215
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="caption">$/;"	function	line:216
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h3>John Smith<br>$/;"	function	line:217
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <small>Job Title<\/small>$/;"	function	line:218
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.<\/p>$/;"	function	line:220
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="list-inline">$/;"	function	line:221
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"><\/i><\/a>$/;"	function	line:222
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"><\/i><\/a>$/;"	function	line:224
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"><\/i><\/a>$/;"	function	line:226
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-4 text-center">$/;"	function	line:232
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="thumbnail">$/;"	function	line:233
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:234
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="caption">$/;"	function	line:235
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h3>John Smith<br>$/;"	function	line:236
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <small>Job Title<\/small>$/;"	function	line:237
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.<\/p>$/;"	function	line:239
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="list-inline">$/;"	function	line:240
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"><\/i><\/a>$/;"	function	line:241
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"><\/i><\/a>$/;"	function	line:243
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"><\/i><\/a>$/;"	function	line:245
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-4 text-center">$/;"	function	line:251
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="thumbnail">$/;"	function	line:252
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:253
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="caption">$/;"	function	line:254
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h3>John Smith<br>$/;"	function	line:255
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <small>Job Title<\/small>$/;"	function	line:256
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.<\/p>$/;"	function	line:258
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="list-inline">$/;"	function	line:259
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"><\/i><\/a>$/;"	function	line:260
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"><\/i><\/a>$/;"	function	line:262
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"><\/i><\/a>$/;"	function	line:264
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-4 text-center">$/;"	function	line:270
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="thumbnail">$/;"	function	line:271
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:272
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <div class="caption">$/;"	function	line:273
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <h3>John Smith<br>$/;"	function	line:274
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <small>Job Title<\/small>$/;"	function	line:275
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.<\/p>$/;"	function	line:277
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                        <ul class="list-inline">$/;"	function	line:278
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"><\/i><\/a>$/;"	function	line:279
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"><\/i><\/a>$/;"	function	line:281
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"><\/i><\/a>$/;"	function	line:283
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <div class="row">$/;"	function	line:293
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-lg-12">$/;"	function	line:294
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <h2 class="page-header">Our Customers<\/h2>$/;"	function	line:295
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:297
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:298
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:300
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:301
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:303
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:304
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:306
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:307
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:309
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:310
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:312
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:313
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <hr>$/;"	function	line:318
+footer	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^        <footer>$/;"	function	line:321
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^            <div class="row">$/;"	function	line:322
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                <div class="col-lg-12">$/;"	function	line:323
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^                    <p>Copyright &copy; Your Website 2014<\/p>$/;"	function	line:324
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <script src="js\/jquery.js"><\/script>$/;"	function	line:333
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/about.html	/^    <script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:336
+html	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^<head>$/;"	function	line:4
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta charset="utf-8">$/;"	function	line:6
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:8
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta name="description" content="">$/;"	function	line:9
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta name="author" content="">$/;"	function	line:10
+title	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <title>Modern Business - Start Bootstrap Template<\/title>$/;"	function	line:12
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <link href="css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:15
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <link href="css\/modern-business.css" rel="stylesheet">$/;"	function	line:18
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <link href="font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:21
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/html5shiv\/3.7.0\/html5shiv.js"><\/script>$/;"	function	line:26
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:27
+body	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^<body>$/;"	function	line:32
+nav	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">$/;"	function	line:35
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <div class="container">$/;"	function	line:36
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="navbar-header">$/;"	function	line:38
+button	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">$/;"	function	line:39
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:40
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:41
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:42
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:43
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <a class="navbar-brand" href="index.html">Start Bootstrap<\/a>$/;"	function	line:45
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">$/;"	function	line:48
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <ul class="nav navbar-nav navbar-right">$/;"	function	line:49
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li>$/;"	function	line:50
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="index.html">Home<\/a>$/;"	function	line:51
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li>$/;"	function	line:53
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="about.html">About<\/a>$/;"	function	line:54
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li>$/;"	function	line:56
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="services.html">Services<\/a>$/;"	function	line:57
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li>$/;"	function	line:59
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="contact.html">Contact<\/a>$/;"	function	line:60
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li class="dropdown">$/;"	function	line:62
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"><\/b><\/a>$/;"	function	line:63
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <ul class="dropdown-menu">$/;"	function	line:64
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:65
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="portfolio-1-col.html">1 Column Portfolio<\/a>$/;"	function	line:66
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:68
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="portfolio-2-col.html">2 Column Portfolio<\/a>$/;"	function	line:69
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:71
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="portfolio-3-col.html">3 Column Portfolio<\/a>$/;"	function	line:72
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:74
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="portfolio-4-col.html">4 Column Portfolio<\/a>$/;"	function	line:75
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:77
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="portfolio-item.html">Single Portfolio Item<\/a>$/;"	function	line:78
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li class="dropdown">$/;"	function	line:82
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"><\/b><\/a>$/;"	function	line:83
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <ul class="dropdown-menu">$/;"	function	line:84
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:85
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="blog-home-1.html">Blog Home 1<\/a>$/;"	function	line:86
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:88
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="blog-home-2.html">Blog Home 2<\/a>$/;"	function	line:89
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:91
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="blog-post.html">Blog Post<\/a>$/;"	function	line:92
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li class="dropdown active">$/;"	function	line:96
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"><\/b><\/a>$/;"	function	line:97
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <ul class="dropdown-menu">$/;"	function	line:98
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:99
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="full-width.html">Full Width Page<\/a>$/;"	function	line:100
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li class="active">$/;"	function	line:102
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="sidebar.html">Sidebar Page<\/a>$/;"	function	line:103
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:105
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="faq.html">FAQ<\/a>$/;"	function	line:106
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:108
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="404.html">404<\/a>$/;"	function	line:109
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <li>$/;"	function	line:111
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                                <a href="pricing.html">Pricing Table<\/a>$/;"	function	line:112
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <div class="container">$/;"	function	line:124
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <div class="row">$/;"	function	line:127
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-lg-12">$/;"	function	line:128
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h1 class="page-header">Resources$/;"	function	line:129
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <small>A list and review of great introductory resources<\/small>$/;"	function	line:130
+ol	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <ol class="breadcrumb">$/;"	function	line:132
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li><a href="index.html">Home<\/a>$/;"	function	line:133
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li class="active">Sidebar Page<\/li>$/;"	function	line:135
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <div class="row">$/;"	function	line:142
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-3">$/;"	function	line:144
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="list-group">$/;"	function	line:145
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#beginners-guide" class="list-group-item">Beginner's Guide<\/a>$/;"	function	line:146
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#books" class="list-group-item">Books<\/a>$/;"	function	line:147
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#phone" class="list-group-item">Phone<\/a>$/;"	function	line:148
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#other" class="list-group-item">Other<\/a>$/;"	function	line:149
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="beginners-guide">$/;"	function	line:153
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Beginner's Guide<\/h2>$/;"	function	line:154
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, et temporibus, facere perferendis veniam beatae non debitis, numquam blanditiis necessitatibus vel mollitia dolorum laudantium, voluptate dolores iure maxime ducimus fugit.<\/p>$/;"	function	line:155
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:156
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:157
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="portfolio-item.html">$/;"	function	line:158
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover" src="http:\/\/placehold.it\/700x300" alt="">$/;"	function	line:159
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:162
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Project One<\/h3>$/;"	function	line:163
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Subheading<\/h4>$/;"	function	line:164
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.<\/p>$/;"	function	line:165
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="portfolio-item.html">View Project<\/i><\/a>$/;"	function	line:166
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="books">$/;"	function	line:171
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Books<\/h2>$/;"	function	line:172
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, et temporibus, facere perferendis veniam beatae non debitis, numquam blanditiis necessitatibus vel mollitia dolorum laudantium, voluptate dolores iure maxime ducimus fugit.<\/p>$/;"	function	line:173
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="phone">$/;"	function	line:175
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Phone Apps<\/h2>$/;"	function	line:176
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, et temporibus, facere perferendis veniam beatae non debitis, numquam blanditiis necessitatibus vel mollitia dolorum laudantium, voluptate dolores iure maxime ducimus fugit.<\/p>$/;"	function	line:177
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="other">$/;"	function	line:179
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Other<\/h2>$/;"	function	line:180
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, et temporibus, facere perferendis veniam beatae non debitis, numquam blanditiis necessitatibus vel mollitia dolorum laudantium, voluptate dolores iure maxime ducimus fugit.<\/p>$/;"	function	line:181
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:182
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:183
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="portfolio-item.html">$/;"	function	line:184
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover" src="http:\/\/placehold.it\/700x300" alt="">$/;"	function	line:185
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:188
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Project One<\/h3>$/;"	function	line:189
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Subheading<\/h4>$/;"	function	line:190
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.<\/p>$/;"	function	line:191
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="portfolio-item.html">View Project<\/i><\/a>$/;"	function	line:192
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <hr>$/;"	function	line:200
+footer	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <footer>$/;"	function	line:203
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="row">$/;"	function	line:204
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="col-lg-12">$/;"	function	line:205
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <p>Copyright &copy; Your Website 2014<\/p>$/;"	function	line:206
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <script src="js\/jquery.js"><\/script>$/;"	function	line:215
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:218
