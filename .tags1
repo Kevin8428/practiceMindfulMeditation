@@ -4,142 +4,150 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^<html lang="en">$/;"	function	line:2
-head	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^<head>$/;"	function	line:4
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <meta charset="utf-8">$/;"	function	line:6
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:8
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <meta name="description" content="">$/;"	function	line:9
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <meta name="author" content="">$/;"	function	line:10
-title	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <title>Modern Business - Start Bootstrap Template<\/title>$/;"	function	line:12
-link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <link href="css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:15
-link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <link href="css\/modern-business.css" rel="stylesheet">$/;"	function	line:18
-link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <link href="font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:21
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/html5shiv\/3.7.0\/html5shiv.js"><\/script>$/;"	function	line:26
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:27
-body	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^<body>$/;"	function	line:32
-nav	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">$/;"	function	line:35
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^      <div class="container">$/;"	function	line:36
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^          <div class="navbar-header">$/;"	function	line:38
-button	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">$/;"	function	line:39
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:40
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <span class="icon-bar"><\/span>$/;"	function	line:41
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <span class="icon-bar"><\/span>$/;"	function	line:42
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <span class="icon-bar"><\/span>$/;"	function	line:43
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^              <a class="navbar-brand" href="index.html">Practice Mindfullness Meditation<\/a>$/;"	function	line:45
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">$/;"	function	line:48
-ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^              <ul class="nav navbar-nav navbar-right">$/;"	function	line:49
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <li>$/;"	function	line:50
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                      <a href="index.html">Home<\/a>$/;"	function	line:51
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <li>$/;"	function	line:53
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                      <a href="about.html">About<\/a>$/;"	function	line:54
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <li class = "active">$/;"	function	line:56
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                      <a href="health-benefits.html">Health Benefits<\/a>$/;"	function	line:57
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <li>$/;"	function	line:59
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                      <a href="resources.html">Resources<\/a>$/;"	function	line:60
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <li>$/;"	function	line:62
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                      <a href="contact.html">Contact<\/a>$/;"	function	line:63
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                  <li>$/;"	function	line:65
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                      <a href="blog.html">Blog<\/a>$/;"	function	line:66
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <div class="container">$/;"	function	line:77
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:80
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-lg-12">$/;"	function	line:81
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h1 class="page-header">Health Benefits$/;"	function	line:82
-small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                    <small>Learn How Meditation Can Benefit Your Life<\/small>$/;"	function	line:83
-ol	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <ol class="breadcrumb">$/;"	function	line:85
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                    <li><a href="index.html">Home<\/a>$/;"	function	line:86
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                    <li class="active">About<\/li>$/;"	function	line:88
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:95
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:96
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:97
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:99
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>It decreases stress and anxiety<\/h2>$/;"	function	line:100
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>There’s a seemingly endless amount of research showing connections to mindfulness meditation and lower stress\/anxiety. A great introductory read is in the Harvard Gazette, which highlights results of a 2011 study by Massachusetts General Hospital (MGH) in which 16 participants received MRI’s two weeks before and after completing an 8 week mindfulness meditaiton program. Britta Holzel, an author of the study and fellow at MGH wrote “ It is fascinating to see the brain’s plasticity and that, by practicing meditation, we can play an active role in changing the brain and can increase our well-being and quality of life.”<\/p>$/;"	function	line:101
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/23541163" target="_blank">National Institute of Health: mindfulness meditation for generalized anxiety disorder.<\/a><br>$/;"	function	line:102
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="http:\/\/www.health.harvard.edu\/blog\/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967" target="_blank">Harvard Medicine: Mindfulness meditation may ease anxiety, mental stress<\/a><br>$/;"	function	line:103
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="https:\/\/www.psychologytoday.com\/blog\/the-athletes-way\/201306\/how-does-meditation-reduce-anxiety-neural-level" target="_blank">Psychology Today: How Does Meditation Reduce Anxiety at a Neural Level?<\/a><br>$/;"	function	line:104
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4040088\/" target="_blank">National Institute of Health: Neural correlates of mindfulness meditation-related anxiety relief<\/a><br>$/;"	function	line:105
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:109
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:113
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:114
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:115
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:117
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>It Helps With Depression<\/h2>$/;"	function	line:118
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>Dr. Danny Penman wrote a great piece in Psychology Today titled “Curing Depression with Mindfulness Meditation”, as did Stacy Lu in the American Psychology Association titled “Mindfulness holds promise for treating depression."<\/p>$/;"	function	line:119
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                    <a href="https:\/\/www.psychologytoday.com\/blog\/mindfulness-in-frantic-world\/201110\/curing-depression-mindfulness-meditation" target="_blank">Psychology Today: Curing Depression With Midnfulness Meditation<\/a><br>$/;"	function	line:120
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                    <a href="http:\/\/www.npr.org\/sections\/health-shots\/2014\/01\/07\/260470831\/mindfulness-meditation-can-help-relieve-anxiety-and-depression" target="_blank">NPR: Mindfulness Meditation Can Help Relieve Anxiety And Depression<\/a><br>$/;"	function	line:121
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:124
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:129
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:130
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:131
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:133
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>It Improves Mental Focus and Clarity<\/h2>$/;"	function	line:134
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>Increases focus. Researchers from MGH and Harvard Medical School released a study in 2011 in which participants completed an eight week mindfulness training program. After concluding Dr. Catherin Kerr, director of Translational Neuroscience at Brown University noted "Mindfulness meditation has been reported to enhance numerous mental abilities, including rapid memory recall."<\/p>$/;"	function	line:135
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="http:\/\/news.harvard.edu\/gazette\/story\/2011\/04\/turn-down-the-volume\/" target="_blank">Harvard Gazette: Meditation may help the brain reduce distractions<\/a><br>$/;"	function	line:136
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="http:\/\/s3.amazonaws.com\/academia.edu.documents\/39616081\/Mindfulness_meditation_improves_cognitio20151102-1793-1onmb2t.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1479930232&Signature=OxABDXIbbYXzOAqgV%2BnvQLvZdy4%3D&response-content-disposition=inline%3B%20filename%3DMindfulness_meditation_improves_cognitio.pdf" target="_blank">Wake Forest University: Mindfulness meditation improves cognition<\/a>$/;"	function	line:137
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:140
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:145
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:146
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:147
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:149
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>It Improves Self Compassion<\/h2>$/;"	function	line:150
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>In June 2015 researchers from the of Psychology at Fielding Graduate University in Santa Barbara, and the Department of Educational Psychology at the University of Texas at Austin released a study titled “Self-Compassion and Body Dissasisfaction in Women: A randomized Conrolled Tirla of a Brief Meditation Intervention.” In this study, women were split into two groups. The first received three-week self-compassion meditation training, while the other remained a control group. Results for women practicing meditaiton showed "significantly greater reduction in body dissatisfaction, body shame and contingent self-worth based on appearance, as well as greater gains in self-compassion and body appreciation”<\/p>$/;"	function	line:151
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <a href="http:\/\/link.springer.com\/article\/10.1007\/s12671-014-0277-3#page-1" target="_blank">Fielding Graduate University: Self-Compassion and Body Dissatisfaction in Women<\/a><br>$/;"	function	line:152
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:155
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:160
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:161
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:162
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:164
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>Why was this page built?<\/h2>$/;"	function	line:165
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>The purpose of this site is to provide resources and introductory tips on how to begin mindfulness meditation. This site aims to highlight the benefits of mindfulness meditation and promote it as a daily practice to combat a multitude of mental health issues faced by all types of people on a daily basis. It’s affordable (or free) and is able to be practiced by anyone.<\/p>$/;"	function	line:166
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:169
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:174
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:175
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:176
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:178
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>Why was this page built?<\/h2>$/;"	function	line:179
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>The purpose of this site is to provide resources and introductory tips on how to begin mindfulness meditation. This site aims to highlight the benefits of mindfulness meditation and promote it as a daily practice to combat a multitude of mental health issues faced by all types of people on a daily basis. It’s affordable (or free) and is able to be practiced by anyone.<\/p>$/;"	function	line:180
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:183
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:188
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:189
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:190
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:192
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>Why was this page built?<\/h2>$/;"	function	line:193
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>The purpose of this site is to provide resources and introductory tips on how to begin mindfulness meditation. This site aims to highlight the benefits of mindfulness meditation and promote it as a daily practice to combat a multitude of mental health issues faced by all types of people on a daily basis. It’s affordable (or free) and is able to be practiced by anyone.<\/p>$/;"	function	line:194
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:197
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:202
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:203
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:204
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:206
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>Why was this page built?<\/h2>$/;"	function	line:207
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>The purpose of this site is to provide resources and introductory tips on how to begin mindfulness meditation. This site aims to highlight the benefits of mindfulness meditation and promote it as a daily practice to combat a multitude of mental health issues faced by all types of people on a daily basis. It’s affordable (or free) and is able to be practiced by anyone.<\/p>$/;"	function	line:208
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:211
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:216
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6 right">$/;"	function	line:217
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/750x450" alt="">$/;"	function	line:218
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-6">$/;"	function	line:220
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2>Why was this page built?<\/h2>$/;"	function	line:221
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <p>The purpose of this site is to provide resources and introductory tips on how to begin mindfulness meditation. This site aims to highlight the benefits of mindfulness meditation and promote it as a daily practice to combat a multitude of mental health issues faced by all types of people on a daily basis. It’s affordable (or free) and is able to be practiced by anyone.<\/p>$/;"	function	line:222
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:225
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <div class="row">$/;"	function	line:229
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-lg-12">$/;"	function	line:230
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <h2 class="page-header">Top Rated Resources<\/h2>$/;"	function	line:231
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:233
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:234
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:236
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:237
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:239
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:240
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:242
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:243
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:245
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:246
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="col-md-2 col-sm-4 col-xs-6">$/;"	function	line:248
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <img class="img-responsive customer-img" src="http:\/\/placehold.it\/500x300" alt="">$/;"	function	line:249
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <hr>$/;"	function	line:254
-footer	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^        <footer>$/;"	function	line:257
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^            <div class="row">$/;"	function	line:258
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                <div class="col-lg-12">$/;"	function	line:259
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^                    <p>Copyright &copy; Your Website 2014<\/p>$/;"	function	line:260
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <script src="js\/jquery.js"><\/script>$/;"	function	line:269
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/health-benefits.html	/^    <script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:272
+html	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^<head>$/;"	function	line:4
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta charset="utf-8">$/;"	function	line:6
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:8
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta name="description" content="">$/;"	function	line:9
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta name="author" content="">$/;"	function	line:10
+title	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <title>Modern Business - Start Bootstrap Template<\/title>$/;"	function	line:12
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <link href="css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:15
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <link href="css\/modern-business.css" rel="stylesheet">$/;"	function	line:18
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <link href="font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:21
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/html5shiv\/3.7.0\/html5shiv.js"><\/script>$/;"	function	line:26
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:27
+body	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^<body>$/;"	function	line:32
+nav	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">$/;"	function	line:35
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="container">$/;"	function	line:36
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="navbar-header">$/;"	function	line:38
+button	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">$/;"	function	line:39
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:40
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:41
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:42
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:43
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a class="navbar-brand" href="index.html">Practice Mindfullness Meditation<\/a>$/;"	function	line:45
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">$/;"	function	line:48
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <ul class="nav navbar-nav navbar-right">$/;"	function	line:49
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li class = "active">$/;"	function	line:50
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="index.html">Home<\/a>$/;"	function	line:51
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:53
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="about.html">About<\/a>$/;"	function	line:54
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:56
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="health-benefits.html">Health Benefits<\/a>$/;"	function	line:57
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:59
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="resources.html">Resources<\/a>$/;"	function	line:60
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:62
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="contact.html">Contact<\/a>$/;"	function	line:63
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:65
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="blog.html">Blog<\/a>$/;"	function	line:66
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"><\/b><\/a>$/;"	function	line:69
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <ul class="dropdown-menu">$/;"	function	line:70
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:71
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="full-width.html">Full Width Page<\/a>$/;"	function	line:72
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:74
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="sidebar.html">Sidebar Page<\/a>$/;"	function	line:75
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:77
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="faq.html">FAQ<\/a>$/;"	function	line:78
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:80
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="404.html">404<\/a>$/;"	function	line:81
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:83
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="pricing.html">Pricing Table<\/a>$/;"	function	line:84
+header	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <header id="myCarousel" class="carousel slide">$/;"	function	line:96
+ol	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <ol class="carousel-indicators">$/;"	function	line:98
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <li data-target="#myCarousel" data-slide-to="0" class="active"><\/li>$/;"	function	line:99
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <li data-target="#myCarousel" data-slide-to="1"><\/li>$/;"	function	line:100
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <li data-target="#myCarousel" data-slide-to="2"><\/li>$/;"	function	line:101
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="carousel-inner">$/;"	function	line:105
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="item active">$/;"	function	line:106
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="fill" style="background-image:url('http:\/\/placehold.it\/1900x1080&text=Slide One');"><\/div>$/;"	function	line:107
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="carousel-caption">$/;"	function	line:108
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <h2>Caption 1<\/h2>$/;"	function	line:109
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="item">$/;"	function	line:112
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="fill" style="background-image:url('http:\/\/placehold.it\/1900x1080&text=Slide Two');"><\/div>$/;"	function	line:113
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="carousel-caption">$/;"	function	line:114
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <h2>Caption 2<\/h2>$/;"	function	line:115
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="item">$/;"	function	line:118
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="fill" style="background-image:url('http:\/\/placehold.it\/1900x1080&text=Slide Three');"><\/div>$/;"	function	line:119
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="carousel-caption">$/;"	function	line:120
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <h2>Caption 3<\/h2>$/;"	function	line:121
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <a class="left carousel-control" href="#myCarousel" data-slide="prev">$/;"	function	line:127
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <span class="icon-prev"><\/span>$/;"	function	line:128
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <a class="right carousel-control" href="#myCarousel" data-slide="next">$/;"	function	line:130
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <span class="icon-next"><\/span>$/;"	function	line:131
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <div class="container">$/;"	function	line:136
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="row">$/;"	function	line:139
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-lg-12">$/;"	function	line:140
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <h1 class="page-header">$/;"	function	line:141
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4">$/;"	function	line:145
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="panel panel-default">$/;"	function	line:146
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-heading">$/;"	function	line:147
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <h4><i class="fa fa-fw fa-check"><\/i> Resources<\/h4>$/;"	function	line:148
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-body">$/;"	function	line:150
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <p>An aggregated a list of resources with reviews to help new users begin this practice and experience all meditation has to offer.<\/p>$/;"	function	line:151
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="resources.html" class="btn btn-default">Learn More<\/a>$/;"	function	line:152
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4">$/;"	function	line:156
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="panel panel-default">$/;"	function	line:157
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-heading">$/;"	function	line:158
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <h4><i class="fa fa-fw fa-gift"><\/i> Why Meditate?<\/h4>$/;"	function	line:159
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-body">$/;"	function	line:161
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <p>Put simply meditation can change your life. It can clear the mind and reduce anxiety, stress, constant worrying, problem sleeping and more.<\/p>$/;"	function	line:162
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="health-benefits.html" class="btn btn-default">Learn More<\/a>$/;"	function	line:163
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4">$/;"	function	line:167
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="panel panel-default">$/;"	function	line:168
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-heading">$/;"	function	line:169
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <h4><i class="fa fa-fw fa-compass"><\/i> Beginner's Guide<\/h4>$/;"	function	line:170
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-body">$/;"	function	line:172
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <p>An easy step by step guide outlining techniques, tips, benefits and more!<\/p>$/;"	function	line:173
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="#" class="btn btn-default">Learn More<\/a>$/;"	function	line:174
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-lg-12">$/;"	function	line:183
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <h2 class="page-header">Portfolio Heading<\/h2>$/;"	function	line:184
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:186
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:187
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:188
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:191
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:192
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:193
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:196
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:197
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:198
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:201
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:202
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:203
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:206
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:207
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:208
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:211
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:212
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:213
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="row">$/;"	function	line:220
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-lg-12">$/;"	function	line:221
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <h2 class="page-header">Benefits of Meditation<\/h2>$/;"	function	line:222
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-6">$/;"	function	line:224
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <p>Mindfulness meditation has been medically proven to help with a wide array of health issues:<\/p>$/;"	function	line:225
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <ul>$/;"	function	line:226
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Anxiety<\/strong><\/li>$/;"	function	line:227
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Stress<\/strong><\/li>$/;"	function	line:228
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Depression<\/strong><\/li>$/;"	function	line:229
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Constant Worrying<\/strong><\/li>$/;"	function	line:230
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Problem Sleeping<\/strong><\/li>$/;"	function	line:231
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Lack of Focus<\/strong><\/li>$/;"	function	line:232
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Continuous Mental Chatter<\/strong><\/li>$/;"	function	line:233
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.<\/p>$/;"	function	line:235
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-6">$/;"	function	line:237
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:238
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <hr>$/;"	function	line:243
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="well">$/;"	function	line:246
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="row">$/;"	function	line:247
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="col-md-8">$/;"	function	line:248
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.<\/p>$/;"	function	line:249
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="col-md-4">$/;"	function	line:251
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <a class="btn btn-lg btn-default btn-block" href="#">Call to Action<\/a>$/;"	function	line:252
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <hr>$/;"	function	line:257
+footer	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <footer>$/;"	function	line:260
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="row">$/;"	function	line:261
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="col-lg-12">$/;"	function	line:262
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <p>Copyright &copy; Your Website 2014<\/p>$/;"	function	line:263
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <script src="js\/jquery.js"><\/script>$/;"	function	line:272
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:275
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <script>$/;"	function	line:278
