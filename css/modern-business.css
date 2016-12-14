@@ -103,3 +103,10 @@ footer {
     float: right;
   }
 }
+.resources-img {
+  max-height: 300px;
+  margin: 0 auto;
+}
+.resources-btn {
+  min-width: 101px;
+}
