@@ -4,150 +4,216 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^<html lang="en">$/;"	function	line:2
-head	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^<head>$/;"	function	line:4
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta charset="utf-8">$/;"	function	line:6
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:8
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta name="description" content="">$/;"	function	line:9
-meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <meta name="author" content="">$/;"	function	line:10
-title	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <title>Modern Business - Start Bootstrap Template<\/title>$/;"	function	line:12
-link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <link href="css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:15
-link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <link href="css\/modern-business.css" rel="stylesheet">$/;"	function	line:18
-link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <link href="font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:21
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/html5shiv\/3.7.0\/html5shiv.js"><\/script>$/;"	function	line:26
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:27
-body	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^<body>$/;"	function	line:32
-nav	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">$/;"	function	line:35
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="container">$/;"	function	line:36
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="navbar-header">$/;"	function	line:38
-button	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">$/;"	function	line:39
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:40
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:41
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:42
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <span class="icon-bar"><\/span>$/;"	function	line:43
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a class="navbar-brand" href="index.html">Practice Mindfullness Meditation<\/a>$/;"	function	line:45
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">$/;"	function	line:48
-ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <ul class="nav navbar-nav navbar-right">$/;"	function	line:49
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li class = "active">$/;"	function	line:50
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="index.html">Home<\/a>$/;"	function	line:51
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:53
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="about.html">About<\/a>$/;"	function	line:54
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:56
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="health-benefits.html">Health Benefits<\/a>$/;"	function	line:57
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:59
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="resources.html">Resources<\/a>$/;"	function	line:60
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:62
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="contact.html">Contact<\/a>$/;"	function	line:63
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li>$/;"	function	line:65
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="blog.html">Blog<\/a>$/;"	function	line:66
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"><\/b><\/a>$/;"	function	line:69
-ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <ul class="dropdown-menu">$/;"	function	line:70
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:71
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="full-width.html">Full Width Page<\/a>$/;"	function	line:72
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:74
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="sidebar.html">Sidebar Page<\/a>$/;"	function	line:75
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:77
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="faq.html">FAQ<\/a>$/;"	function	line:78
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:80
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="404.html">404<\/a>$/;"	function	line:81
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                            <li>$/;"	function	line:83
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                                <a href="pricing.html">Pricing Table<\/a>$/;"	function	line:84
-header	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <header id="myCarousel" class="carousel slide">$/;"	function	line:96
-ol	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <ol class="carousel-indicators">$/;"	function	line:98
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <li data-target="#myCarousel" data-slide-to="0" class="active"><\/li>$/;"	function	line:99
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <li data-target="#myCarousel" data-slide-to="1"><\/li>$/;"	function	line:100
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <li data-target="#myCarousel" data-slide-to="2"><\/li>$/;"	function	line:101
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="carousel-inner">$/;"	function	line:105
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="item active">$/;"	function	line:106
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="fill" style="background-image:url('http:\/\/placehold.it\/1900x1080&text=Slide One');"><\/div>$/;"	function	line:107
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="carousel-caption">$/;"	function	line:108
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <h2>Caption 1<\/h2>$/;"	function	line:109
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="item">$/;"	function	line:112
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="fill" style="background-image:url('http:\/\/placehold.it\/1900x1080&text=Slide Two');"><\/div>$/;"	function	line:113
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="carousel-caption">$/;"	function	line:114
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <h2>Caption 2<\/h2>$/;"	function	line:115
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="item">$/;"	function	line:118
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="fill" style="background-image:url('http:\/\/placehold.it\/1900x1080&text=Slide Three');"><\/div>$/;"	function	line:119
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="carousel-caption">$/;"	function	line:120
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <h2>Caption 3<\/h2>$/;"	function	line:121
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <a class="left carousel-control" href="#myCarousel" data-slide="prev">$/;"	function	line:127
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <span class="icon-prev"><\/span>$/;"	function	line:128
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <a class="right carousel-control" href="#myCarousel" data-slide="next">$/;"	function	line:130
-span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <span class="icon-next"><\/span>$/;"	function	line:131
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <div class="container">$/;"	function	line:136
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="row">$/;"	function	line:139
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-lg-12">$/;"	function	line:140
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <h1 class="page-header">$/;"	function	line:141
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4">$/;"	function	line:145
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="panel panel-default">$/;"	function	line:146
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-heading">$/;"	function	line:147
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <h4><i class="fa fa-fw fa-check"><\/i> Resources<\/h4>$/;"	function	line:148
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-body">$/;"	function	line:150
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <p>An aggregated a list of resources with reviews to help new users begin this practice and experience all meditation has to offer.<\/p>$/;"	function	line:151
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="resources.html" class="btn btn-default">Learn More<\/a>$/;"	function	line:152
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4">$/;"	function	line:156
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="panel panel-default">$/;"	function	line:157
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-heading">$/;"	function	line:158
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <h4><i class="fa fa-fw fa-gift"><\/i> Why Meditate?<\/h4>$/;"	function	line:159
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-body">$/;"	function	line:161
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <p>Put simply meditation can change your life. It can clear the mind and reduce anxiety, stress, constant worrying, problem sleeping and more.<\/p>$/;"	function	line:162
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="health-benefits.html" class="btn btn-default">Learn More<\/a>$/;"	function	line:163
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4">$/;"	function	line:167
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="panel panel-default">$/;"	function	line:168
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-heading">$/;"	function	line:169
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <h4><i class="fa fa-fw fa-compass"><\/i> Beginner's Guide<\/h4>$/;"	function	line:170
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <div class="panel-body">$/;"	function	line:172
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <p>An easy step by step guide outlining techniques, tips, benefits and more!<\/p>$/;"	function	line:173
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                        <a href="#" class="btn btn-default">Learn More<\/a>$/;"	function	line:174
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-lg-12">$/;"	function	line:183
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <h2 class="page-header">Portfolio Heading<\/h2>$/;"	function	line:184
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:186
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:187
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:188
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:191
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:192
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:193
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:196
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:197
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:198
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:201
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:202
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:203
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:206
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:207
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:208
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-4 col-sm-6">$/;"	function	line:211
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <a href="portfolio-item.html">$/;"	function	line:212
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <img class="img-responsive img-portfolio img-hover" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:213
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="row">$/;"	function	line:220
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-lg-12">$/;"	function	line:221
-h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <h2 class="page-header">Benefits of Meditation<\/h2>$/;"	function	line:222
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-6">$/;"	function	line:224
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <p>Mindfulness meditation has been medically proven to help with a wide array of health issues:<\/p>$/;"	function	line:225
-ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <ul>$/;"	function	line:226
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Anxiety<\/strong><\/li>$/;"	function	line:227
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Stress<\/strong><\/li>$/;"	function	line:228
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Depression<\/strong><\/li>$/;"	function	line:229
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Constant Worrying<\/strong><\/li>$/;"	function	line:230
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Problem Sleeping<\/strong><\/li>$/;"	function	line:231
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Lack of Focus<\/strong><\/li>$/;"	function	line:232
-li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <li><strong>Continuous Mental Chatter<\/strong><\/li>$/;"	function	line:233
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.<\/p>$/;"	function	line:235
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="col-md-6">$/;"	function	line:237
-img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <img class="img-responsive" src="http:\/\/placehold.it\/700x450" alt="">$/;"	function	line:238
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <hr>$/;"	function	line:243
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <div class="well">$/;"	function	line:246
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="row">$/;"	function	line:247
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="col-md-8">$/;"	function	line:248
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.<\/p>$/;"	function	line:249
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="col-md-4">$/;"	function	line:251
-a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <a class="btn btn-lg btn-default btn-block" href="#">Call to Action<\/a>$/;"	function	line:252
-hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <hr>$/;"	function	line:257
-footer	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^        <footer>$/;"	function	line:260
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^            <div class="row">$/;"	function	line:261
-div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                <div class="col-lg-12">$/;"	function	line:262
-p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^                    <p>Copyright &copy; Your Website 2014<\/p>$/;"	function	line:263
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <script src="js\/jquery.js"><\/script>$/;"	function	line:272
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:275
-script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/index.html	/^    <script>$/;"	function	line:278
+html	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^<head>$/;"	function	line:4
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta charset="utf-8">$/;"	function	line:6
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:7
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:8
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta name="description" content="">$/;"	function	line:9
+meta	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <meta name="author" content="">$/;"	function	line:10
+title	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <title>Mindfulness Meditation - A beginner's Guide<\/title>$/;"	function	line:12
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <link href="css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:15
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <link href="css\/modern-business.css" rel="stylesheet">$/;"	function	line:18
+link	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <link href="font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:21
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/html5shiv\/3.7.0\/html5shiv.js"><\/script>$/;"	function	line:26
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <script src="https:\/\/oss.maxcdn.com\/libs\/respond.js\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:27
+body	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^<body>$/;"	function	line:32
+nav	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">$/;"	function	line:35
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^      <div class="container">$/;"	function	line:36
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^          <div class="navbar-header">$/;"	function	line:38
+button	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">$/;"	function	line:39
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:40
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <span class="icon-bar"><\/span>$/;"	function	line:41
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <span class="icon-bar"><\/span>$/;"	function	line:42
+span	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <span class="icon-bar"><\/span>$/;"	function	line:43
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^              <a class="navbar-brand" href="index.html">Practice Mindfullness Meditation<\/a>$/;"	function	line:45
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">$/;"	function	line:48
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^              <ul class="nav navbar-nav navbar-right">$/;"	function	line:49
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <li>$/;"	function	line:50
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="index.html">Home<\/a>$/;"	function	line:51
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <li>$/;"	function	line:53
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="about.html">About<\/a>$/;"	function	line:54
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <li>$/;"	function	line:56
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="health-benefits.html">Health Benefits<\/a>$/;"	function	line:57
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <li class = "active">$/;"	function	line:59
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="resources.html">Resources<\/a>$/;"	function	line:60
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="contact.html">Contact<\/a>$/;"	function	line:63
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <li>$/;"	function	line:65
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="blog.html">Blog<\/a>$/;"	function	line:66
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                  <li>$/;"	function	line:68
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="contact.html">Contact<\/a>$/;"	function	line:69
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other<b class="caret"><\/b><\/a>$/;"	function	line:72
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <ul class="dropdown-menu">$/;"	function	line:73
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:74
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="how-to-meditate.html">How To Meditate<\/a>$/;"	function	line:75
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:77
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="meditation-music.html">Meditation Music<\/a>$/;"	function	line:78
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:80
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="meditation-for-sleep.html">Meditation For Sleep<\/a>$/;"	function	line:81
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:83
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="contact.html">Contact<\/a>$/;"	function	line:84
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other Pages <b class="caret"><\/b><\/a>$/;"	function	line:89
+ul	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                      <ul class="dropdown-menu">$/;"	function	line:90
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:91
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="full-width.html">Full Width Page<\/a>$/;"	function	line:92
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:94
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="sidebar.html">Sidebar Page<\/a>$/;"	function	line:95
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:97
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="faq.html">FAQ<\/a>$/;"	function	line:98
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:100
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="404.html">404<\/a>$/;"	function	line:101
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                          <li>$/;"	function	line:103
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                              <a href="pricing.html">Pricing Table<\/a>$/;"	function	line:104
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <div class="container">$/;"	function	line:116
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <div class="row">$/;"	function	line:119
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-lg-12">$/;"	function	line:120
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h1 class="page-header">Resources$/;"	function	line:121
+small	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <small>Review of Great Introductory Resources<\/small>$/;"	function	line:122
+ol	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <ol class="breadcrumb">$/;"	function	line:124
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li><a href="index.html">Home<\/a>$/;"	function	line:125
+li	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <li class="active">Resources<\/li>$/;"	function	line:127
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <div class="row">$/;"	function	line:134
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-3 resources-sidebar">$/;"	function	line:136
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="list-group">$/;"	function	line:137
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#beginners-guide" class="list-group-item">Beginner's Guide<\/a>$/;"	function	line:138
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#books" class="list-group-item">Books<\/a>$/;"	function	line:139
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#phone" class="list-group-item">Phone<\/a>$/;"	function	line:140
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <a href="#music" class="list-group-item">Music<\/a>$/;"	function	line:141
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="beginners-guide">$/;"	function	line:145
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Beginner's Guide<\/h2>$/;"	function	line:146
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Three great resources which are highly acclaimed and provide a great introduction to meditation and how to start practicing.<\/p>$/;"	function	line:147
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:148
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:149
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/0861719069\/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0861719069&linkCode=as2&tag=practicemindf-20&linkId=88039b40c6745f102ac1ff53a1" target="_blank">$/;"	function	line:150
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/mindfulness_in_plain_english.jpg" alt="mindfulness meditation">$/;"	function	line:151
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:154
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Mindfulness in Plain english<\/h3>$/;"	function	line:155
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>By Bhante Henepola Gunaratana<\/h4>$/;"	function	line:156
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is an increadibly powerful book for all practitioners, although it offers an amazing introduction into practice for beginners. Bhante Henepola Gunaratana is a Sri Lankan monk who's written more than a half dozen publications to date, all centered around medtation, mindfulness and happiness.<\/p>$/;"	function	line:157
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary resources-btn" target="_blank" href="https:\/\/www.amazon.com\/gp\/product\/0861719069\/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0861719069&linkCode=as2&tag=practicemindf-20&linkId=88039b40c6745f102ac1ff53a1">View<\/i><\/a>$/;"	function	line:158
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:161
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:162
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:163
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.headspace.com" target="_blank">$/;"	function	line:164
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/headspace.jpg" alt="">$/;"	function	line:165
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:168
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Headspace<\/h3>$/;"	function	line:169
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>A Meditation App for Phone and Computer<\/h4>$/;"	function	line:170
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is a gerat resource with dozens of programs specializing in stress, anxiety, sleep, happiness and more. The guided meditations are amazing for beginners and provide techniques which last long after you stop using the app. With a free trial it's definitely worth exploring.<\/p>$/;"	function	line:171
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary resources-btn" target="_blank" href="https:\/\/www.headspace.com\/">View<\/i><\/a>$/;"	function	line:172
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:175
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:176
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:177
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="http:\/\/marc.ucla.edu\/mindful-meditations" target="_blank">$/;"	function	line:178
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/statue-vertical.jpg" alt="meditation statue">$/;"	function	line:179
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:182
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Free Guided Meditation<\/h3>$/;"	function	line:183
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>From UCLA Mindful Awareness Research Center<\/h4>$/;"	function	line:184
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is another great resource in both English and Spanish. It has guided meditation as well as background music. It can be played from a computer or downloaded on iTunes for free.<\/p>$/;"	function	line:185
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary resources-btn" target="_blank" href="http:\/\/marc.ucla.edu\/mindful-meditations">View<\/i><\/a>$/;"	function	line:186
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:189
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="books">$/;"	function	line:193
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Books<\/h2>$/;"	function	line:194
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Below is a more extensive list of books which are great resources for beginners and other practicioners. <\/p>$/;"	function	line:195
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:196
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:197
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/0861719069\/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0861719069&linkCode=as2&tag=practicemindf-20&linkId=88039b40c6745f102ac1ff53a1" target="_blank">$/;"	function	line:198
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/mindfulness_in_plain_english.jpg" alt="mindfulness meditation">$/;"	function	line:199
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:202
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Mindfulness in Plain english<\/h3>$/;"	function	line:203
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>By Bhante Henepola Gunaratana<\/h4>$/;"	function	line:204
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is an increadibly powerful book for all practitioners, although it offers an amazing introduction into practice for beginners. Bhante Henepola Gunaratana is a Sri Lankan monk who's written more than a half dozen publications to date, all centered around medtation, mindfulness and happiness.<\/p>$/;"	function	line:205
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary resources-btn" target="_blank" href="https:\/\/www.amazon.com\/gp\/product\/0861719069\/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0861719069&linkCode=as2&tag=practicemindf-20&linkId=88039b40c6745f102ac1ff53a1">View<\/i><\/a>$/;"	function	line:206
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:209
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:210
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:211
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/1401307787\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401307787&linkId=c7183da3c8fc0a59dfd755a8b4c1d1be" target="_blank">$/;"	function	line:212
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/book.jpg" alt="mindfulness meditation">$/;"	function	line:213
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:216
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Wherever You Go, There You Are<\/h3>$/;"	function	line:217
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Mindfulness Meditation In Everyday Life<\/h4>$/;"	function	line:218
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>Celebrating more than 20 years in circulation, this book is a national best seller and for good reason. This book shows there's no secret to meditation; it can be done and appreciated by anyone. It is written by Jon Kabat-Zinn, a renowned researcher in the study of mindfulness-based stress reduction.<\/p>$/;"	function	line:219
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary resources-btn" target="_blank" href="https:\/\/www.amazon.com\/gp\/product\/1401307787\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401307787&linkId=c7183da3c8fc0a59dfd755a8b4c1d1be">View<\/i><\/a>$/;"	function	line:220
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:223
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:224
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:225
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/1577314808\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1577314808&linkId=ad8ccb7bd51bd616df42640bd60a62d1" target="_blank">$/;"	function	line:226
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/power_of_now.jpg" alt="mindfulness meditation">$/;"	function	line:227
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:230
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>The Power of Now<\/h3>$/;"	function	line:231
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>A Guide to Spiritual Enlightenment<\/h4>$/;"	function	line:232
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.<\/p>$/;"	function	line:233
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary resources-btn" target="_blank" href="https:\/\/www.amazon.com\/gp\/product\/1577314808\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1577314808&linkId=ad8ccb7bd51bd616df42640bd60a62d1">View<\/i><\/a>$/;"	function	line:234
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:237
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="phone">$/;"	function	line:241
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Phone Apps<\/h2>$/;"	function	line:242
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>These are great recommendations to help with guided meditation to be practiced anytime of the day.<\/p>$/;"	function	line:243
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:244
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:245
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.calm.com\/meditate" target="_blank">$/;"	function	line:246
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/calm.png" alt="">$/;"	function	line:247
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:250
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Calm<\/h3>$/;"	function	line:251
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Meditation app\/website with free and paid content<\/h4>$/;"	function	line:252
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This app has programs for everyone. The phone app does cost money however the website (https:\/\/www.calm.com\/meditate) has free courses including a '7 Days of Calm' which is a great introduction.<\/p>$/;"	function	line:253
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="https:\/\/www.calm.com\/meditate" target="_blank">View Project<\/i><\/a>$/;"	function	line:254
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:257
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:258
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:259
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.headspace.com\/" target="_blank">$/;"	function	line:260
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/headspace.jpg" alt="">$/;"	function	line:261
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:264
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Headspace<\/h3>$/;"	function	line:265
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>A Meditation App for Phone and Computer<\/h4>$/;"	function	line:266
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is a gerat resource with dozens of programs specializing in stress, anxiety, sleep, happiness and more. The guided meditations are amazing for beginners and provide techniques which last long after you stop using the app. With a free trial it's definitely worth exploring.<\/p>$/;"	function	line:267
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="https:\/\/www.headspace.com\/" target="_blank">View Project<\/i><\/a>$/;"	function	line:268
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:271
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:272
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:273
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="http:\/\/www.stopbreathethink.org\/" target="_blank">$/;"	function	line:274
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/stop_breathe_think.jpeg" alt="">$/;"	function	line:275
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:278
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Stop, Breathe &amp; Think<\/h3>$/;"	function	line:279
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Meditation app\/website with free and paid content<\/h4>$/;"	function	line:280
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is another highly rated app offering mobile, tablet and desktop experiences. The destop site hs more than 25 offerings on the 'list of meditations' with more than 15 having free introductions, including Gratitude and Kindness.<\/p>$/;"	function	line:281
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="http:\/\/www.stopbreathethink.org\/" target="_blank">View Project<\/i><\/a>$/;"	function	line:282
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:285
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="col-md-9" id="music">$/;"	function	line:290
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <h2>Music<\/h2>$/;"	function	line:291
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <p>Below are three great resources for meditaiton music.<\/p>$/;"	function	line:292
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:293
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:294
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/B0000037AE\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0000037AE&linkId=7e96d40dd97d30f09bf15899640aa015" target="_blank">$/;"	function	line:295
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/shakuhachi.jpg" alt="">$/;"	function	line:296
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:299
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Shakuhachi Meditation Music<\/h3>$/;"	function	line:300
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Stan Richardson<\/h4>$/;"	function	line:301
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is a highly acclaimed two disc meditaiton soundtrack. Stan Richardson has been playing the Shakuhachi since 1972 and is currently head of Mujuan Shakuhachi Dojo in Texas.<\/p>$/;"	function	line:302
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="https:\/\/www.amazon.com\/gp\/product\/B0000037AE\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0000037AE&linkId=7e96d40dd97d30f09bf15899640aa015" target="_blank">View Project<\/i><\/a>$/;"	function	line:303
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:306
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:307
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:308
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/0893860158\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0893860158&linkId=b8da13581648b40f12b3f6a5415b39a2" target="_blank">$/;"	function	line:309
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/the_ease_of_being.jpg" alt="">$/;"	function	line:310
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:313
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>The Ease of Being<\/h3>$/;"	function	line:314
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Mary Maddux and Richard Maddux<\/h4>$/;"	function	line:315
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>Mary and Richard Maddux are meditation practicioners and teachers with more than 30 years experience in the field. <\/p>$/;"	function	line:316
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="https:\/\/www.amazon.com\/gp\/product\/0893860158\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0893860158&linkId=b8da13581648b40f12b3f6a5415b39a2" target="_blank">View Project<\/i><\/a>$/;"	function	line:317
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:320
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="row">$/;"	function	line:321
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-7">$/;"	function	line:322
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a href="https:\/\/www.amazon.com\/gp\/product\/B00191KPIG\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00191KPIG&linkId=6e8cbc914e35f35a90a783c5d9aef26a" target="_blank">$/;"	function	line:323
+img	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                            <img class="img-responsive img-hover resources-img" src="images\/mother_devine.jpg" alt="">$/;"	function	line:324
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                    <div class="col-md-5">$/;"	function	line:327
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h3>Mother Divine<\/h3>$/;"	function	line:328
+h	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <h4>Van Sickle<\/h4>$/;"	function	line:329
+p	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <p>This is a well regarded and universally appealing soundtrack for meditation. It is well known for the beauty and simplicity which has proven greatly beneficial as it offers repetative chanting.<\/p>$/;"	function	line:330
+a	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                        <a class="btn btn-primary" href="https:\/\/www.amazon.com\/gp\/product\/B00191KPIG\/ref=as_li_tl?ie=UTF8&tag=practicemindf-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00191KPIG&linkId=6e8cbc914e35f35a90a783c5d9aef26a" target="_blank">View Project<\/i><\/a>$/;"	function	line:331
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <hr>$/;"	function	line:334
+hr	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <hr>$/;"	function	line:340
+footer	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^        <footer>$/;"	function	line:343
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^            <div class="row">$/;"	function	line:344
+div	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^                <div class="col-lg-12">$/;"	function	line:345
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <script src="js\/jquery.js"><\/script>$/;"	function	line:355
+script	/Users/kdeutscher/Desktop/PMM/startbootstrap-modern-business-gh-pages/resources.html	/^    <script src="js\/bootstrap.min.js"><\/script>$/;"	function	line:358
